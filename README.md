@@ -19,3 +19,10 @@ https://addons.mozilla.org/ru/firefox/addon/chameleon-ext/
 ### Windows Spy Blocker
 
 https://github.com/crazy-max/WindowsSpyBlocker
+
+### ProxyServer-Брандмауэр
+
+https://github.com/AM71113363/ProxyServer-Firewall
+
+###
+
