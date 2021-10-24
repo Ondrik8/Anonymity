@@ -12,3 +12,10 @@ https://github.com/shingrus/1time
 
 https://github.com/osresearch/spispy
 
+### Spoof your browser profile. Includes a few privacy enhancing options.
+
+https://addons.mozilla.org/ru/firefox/addon/chameleon-ext/
+
+### Windows Spy Blocker
+
+https://github.com/crazy-max/WindowsSpyBlocker
