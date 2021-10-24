@@ -24,5 +24,10 @@ https://github.com/crazy-max/WindowsSpyBlocker
 
 https://github.com/AM71113363/ProxyServer-Firewall
 
-###
+### Take back your privacy. Lose yourself in the haystack.
 
+https://github.com/eth0izzle/needl
+
+### opera-proxy
+
+https://github.com/Snawoot/opera-proxy
