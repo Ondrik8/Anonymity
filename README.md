@@ -31,3 +31,8 @@ https://github.com/eth0izzle/needl
 ### opera-proxy
 
 https://github.com/Snawoot/opera-proxy
+
+
+### HiddenVM
+
+https://github.com/aforensics/HiddenVM
