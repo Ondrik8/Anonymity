@@ -25,6 +25,13 @@ https://github.com/osresearch/spispy
 https://addons.mozilla.org/ru/firefox/addon/chameleon-ext/
 https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/
 
+CANVAS spoofer
+https://addons.mozilla.org/en-US/firefox/addon/canvas-fingerprint-defender/
+
+Time zone spoofer
+https://addons.mozilla.org/en-US/firefox/addon/spoof-timezone/
+
+
 ````
 ### Windows Spy Blocker
 
